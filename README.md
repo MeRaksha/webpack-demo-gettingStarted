@@ -1,5 +1,5 @@
 # webpack-demo-gettingStarted
-The very basic demo for webpack
+The very basic demo for creating bundle using the webpack config file.
 
 ## How to use
 
